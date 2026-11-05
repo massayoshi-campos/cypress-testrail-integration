@@ -37,13 +37,13 @@ For more details on how to install and configure these components, refer to the 
 1. Clone this repository to your development environment:
 
 ```shell
-git clone git@github.com:massayoshi-campos/cypress-rest-api-testing.git
+git clone git@github.com:massayoshi-campos/cypress-testrail-integration.git
 ```
 
 2. Navigate to the project directory in the 'api' folder:
 
 ```shell
-cd 'Your repository\cypress-rest-api-testing\api'
+cd 'Your repository\cypress-testrail-integration\api'
 ```
 
 3. Install project dependencies using npm:
@@ -55,7 +55,7 @@ npm install
 ### Cypress folder structure
 
 ```
-- cypress-rest-api-testing
+- cypress-testrail-integration
   - .github
     - workflows
       - cypress.yml
